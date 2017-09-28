@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "I will see hello world on localhost:4000 when I run node app.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jojokats/node-app.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Joanna Katsifaraki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jojokats/node-app/issues"
+  },
+  "homepage": "https://github.com/Jojokats/node-app#readme"
+}
